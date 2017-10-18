@@ -1,0 +1,5 @@
+class factura{
+	Date fecha;
+	List<producto> productos;
+	Double precio
+}

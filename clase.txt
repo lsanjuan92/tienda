@@ -1,0 +1,13 @@
+INICIAR REPOSITORIO
+git init
+CREAR COMMIT
+git add .
+AGREGAR COMMIT
+git commit -m""
+
+crear rama
+git branch nombreRama
+VER  RAMAS
+git branch
+SALTAR DE RAMA
+git chechout nombreRama
