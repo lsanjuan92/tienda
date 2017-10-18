@@ -1,0 +1,6 @@
+class vendedor{
+
+	string nombre;
+	date fechaDeNacimiento;
+	string cedula;
+}
